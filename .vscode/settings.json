@@ -1,0 +1,9 @@
+
+/* CONFIGURAÇÃO DO VENV PARA EXECUÇÃO DO PROJETO */
+
+{
+    "python.pythonPath": "venv/Scripts/python",
+    "code-runner.executorMap": {
+        "python": "venv/Scripts/python",
+    }
+}
